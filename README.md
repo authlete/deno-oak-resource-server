@@ -178,7 +178,7 @@ Contact Form : https://www.authlete.com/contact/
 [AuthleteDefinitiveGuide]: https://www.authlete.com/documents/definitive_guide
 [AuthleteDeno]:            https://github.com/authlete/authlete-deno
 [AuthleteDenoOak]:         https://github.com/authlete/authlete-deno-oak
-[AuthleteSignUp]:          https://login.authlete.com/signup
+[AuthleteSignUp]:          https://console.authlete.com/register
 [Claims]:                  https://openid.net/specs/openid-connect-core-1_0.html#Claims
 [ClientMetadata]:          https://openid.net/specs/openid-connect-registration-1_0.html#ClientMetadata
 [DCR]:                     https://openid.net/specs/openid-connect-registration-1_0.html
