@@ -172,7 +172,7 @@ Authlete 固有の情報については、[Authlete Definitive Guide][AuthleteDe
 [AuthleteDefinitiveGuide]: https://www.authlete.com/documents/definitive_guide
 [AuthleteDeno]:            https://github.com/authlete/authlete-deno
 [AuthleteDenoOak]:         https://github.com/authlete/authlete-deno-oak
-[AuthleteSignUp]:          https://so.authlete.com/accounts/signup
+[AuthleteSignUp]:          https://console.authlete.com/register
 [Claims]:                  https://openid.net/specs/openid-connect-core-1_0.html#Claims
 [ClientMetadata]:          https://openid.net/specs/openid-connect-registration-1_0.html#ClientMetadata
 [DCR]:                     https://openid.net/specs/openid-connect-registration-1_0.html
